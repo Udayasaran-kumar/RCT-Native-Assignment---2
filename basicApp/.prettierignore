@@ -1,0 +1,7 @@
+node_modules/
+android/
+.eslintrc.js
+tsconfig.json
+scrips/
+package.json
+package-lock.json
